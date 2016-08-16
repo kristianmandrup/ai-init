@@ -32,6 +32,7 @@
     "test": "make test"
   },
   "dependencies": {
+    "ai-core": "^0.1.0",
     "inquirer": "^1.1.2",
     "jsonfile": "^2.3.1"
   },
