@@ -1,0 +1,43 @@
+{
+  "name": "ai-init",
+  "description": "Preferences for Aurelia installer",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kristianmandrup/ai-init",
+  "author": {
+    "name": "Kristian Mandrup",
+    "email": "kmandrup@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kristianmandrup/ai-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kristianmandrup/ai-init/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kristianmandrup/ai-init/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/ai-init",
+  "bin": {
+    "ai-init": "bin/ai-init.js"
+  },
+  "engines": {
+    "node": ">= 0.10.36",
+    "npm": ">=1.4.28"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "inquirer": "^1.1.2",
+    "jsonfile": "^2.3.1"
+  },
+  "devDependencies": {
+    "chai": "~2.1.2",
+    "mocha": "~2.2.1"
+  },
+  "keywords": []
+}
