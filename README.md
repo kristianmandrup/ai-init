@@ -1,5 +1,7 @@
 # Ai-init [![Build Status](https://secure.travis-ci.org/kristianmandrup/ai-init.png?branch=master)](http://travis-ci.org/kristianmandrup/ai-init) [![NPM version](https://badge-me.herokuapp.com/api/npm/ai-init.png)](http://badges.enytc.com/for/npm/ai-init)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/ai-init.svg)](https://greenkeeper.io/)
+
 > Preferences for Aurelia installer
 
 ## Getting Started
