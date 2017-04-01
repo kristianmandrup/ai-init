@@ -33,12 +33,12 @@
   },
   "dependencies": {
     "ai-core": "^0.1.0",
-    "inquirer": "^1.1.2",
+    "inquirer": "^3.0.6",
     "jsonfile": "^2.3.1"
   },
   "devDependencies": {
-    "chai": "~2.1.2",
-    "mocha": "~2.2.1"
+    "chai": "~3.5.0",
+    "mocha": "~3.2.0"
   },
   "keywords": []
 }
